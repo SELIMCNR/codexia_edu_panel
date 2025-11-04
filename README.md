@@ -29,7 +29,7 @@ Bu proje, eğitim kurumları için geliştirilen modüler ve özelleştirilebili
 ## 📁 Kurulum
 
 ```bash
-git clone https://github.com/kullaniciadi/egitim-paneli-demo.git
+git clone [https://github.com/kullaniciadi/egitim-paneli-demo.git](https://github.com/SELIMCNR/codexia_edu_panel/tree/main/codexia_edu_panel)
 cd egitim-paneli-demo
 pip install -r requirements.txt
 python main.py
